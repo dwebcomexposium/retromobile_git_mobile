@@ -7,3 +7,4 @@ vendor/imagesloaded/imagesloaded.pkgd.min.js
 vendor/slick-carousel/slick/slick.min.js
 cookies-warning.min.js
 modules/*
+modules/faq-sna-corpo.js
