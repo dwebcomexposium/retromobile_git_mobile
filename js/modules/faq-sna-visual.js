@@ -20,7 +20,7 @@
  @last-update: 2016-03-07
  */
 ;
-/*(function($) {
+(function($) {
 
   function snaResetContainer($container) {
     $container.removeClass('item-is-open');
@@ -81,4 +81,4 @@
     });
   }
 
-})(jQuery);*/
+})(jQuery);
