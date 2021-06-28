@@ -1,3 +1,8 @@
 /* CSS Surcharge Dweb 27/06/2017 15h05 */
 
 .la-swiper {overflow: hidden !important }
+
+
+/* catalogue */
+#catalog-v2 .CatalogCard-title.CatalogCard-title--premium {
+    background: #185e3e !important;}
